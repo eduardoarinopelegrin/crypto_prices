@@ -40,8 +40,7 @@ curl -X 'GET' \
 ```
 curl -X 'GET' \
   
-'https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,binancecoin,cardano,solana,polkadot,matic-network,monero,cosmos,oasis-network&vs_currencies=usd' 
-\
+'https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,binancecoin,cardano,solana,polkadot,matic-network,monero,cosmos,oasis-network&vs_currencies=usd' \
   -H 'accept: application/json'
 ```
 
