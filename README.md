@@ -1,4 +1,6 @@
 # crypto_prices
+![demo](https://user-images.githubusercontent.com/50542132/174473083-d1d7480e-c129-4493-aa69-3e33fb56a642.gif)
+
 
 ## Resources
 * Cowsay: https://github.com/tnalpgge/rank-amateur-cowsay
