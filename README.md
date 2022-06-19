@@ -1,4 +1,4 @@
-# crypto-prices
+# crypto_prices
 
 ## Resources
 * Cowsay: https://github.com/tnalpgge/rank-amateur-cowsay
@@ -64,7 +64,7 @@ curl -s -X 'GET' 'https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethe
 chmod 744 crypto_prices
 ```
 
-## Execution (for current directory)
+## Executing the Script (for current directory)
 ```
 ./crypto_prices
 ```
@@ -76,7 +76,7 @@ nano $HOME/.zshrc
 export PATH="$PATH:$HOME/bin"
 ```
 
-## Execution (from anywhere)
+## Executing the Script (from anywhere)
 ```
 crypto_prices
 ```
